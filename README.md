@@ -12,8 +12,8 @@ In this assignment, we go back to the Graph Coloring Program and we now solve a 
 
 ## Assignment 4: SAT Solver
 In this assignment, we solve a Boolean Decision (Yes,No) problem that is a variant of the Graph Coloring Problem where the algorithm tries to solve the constraints:
-  The color assignment uses at most K1 colors
-  The color assignment satisfies at least K2 affinity edges
+- The color assignment uses at most K1 colors
+- The color assignment satisfies at least K2 affinity edges
   
 For my implementation, I used z3 in Python. The original files, which are uploaded to this Github, can be found in this Google Drive folder:
 https://drive.google.com/drive/folders/1WZq3BvtoivE2iWYym8T6p0UVy-EZrpCj?usp=sharing
